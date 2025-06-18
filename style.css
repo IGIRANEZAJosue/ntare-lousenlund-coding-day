@@ -1,3 +1,13 @@
-body {
-  color: red: 
+ul {
+  padding: 24px; 
+  margin: 20px;
+  display: flex;
+  justify-content: center; 
+  gap: 16px;
+  background: lightblue;
+  border-radius: 8px;
+}
+
+ul li {
+  list-style: none;
 }
